@@ -11,3 +11,8 @@
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Abhinav-Raj-Singh&theme=dark&hide_border=false)
+
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinav-Raj-Singh&style=for-the-badge&color=00599C&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
