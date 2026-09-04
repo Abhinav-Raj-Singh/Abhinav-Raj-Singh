@@ -14,7 +14,7 @@
 
 ### ✍️ My Philosophy
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&repeat=false&lines=while+(alive)+%7B+improve(1%25)%3B+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=435&repeat=false&separator=%7C&lines=while+(alive)+%7B+improve(1%25)%3B+%7D" alt="Typing SVG" />
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
