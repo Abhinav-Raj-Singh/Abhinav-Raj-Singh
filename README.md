@@ -7,7 +7,18 @@
 </a>
 
 # 💻 Tech Stack:
+
+### ⚙️ Core & Algorithms
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🌐 Web Foundations
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Tools & OS
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terminal](https://img.shields.io/badge/CLI-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=Abhinav-Raj-Singh&theme=dark&hide_border=false)
